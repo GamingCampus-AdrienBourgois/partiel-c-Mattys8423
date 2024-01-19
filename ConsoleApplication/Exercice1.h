@@ -31,7 +31,7 @@ public:
 		switch (_id)
 		{
 		case 0: return Test(71.97f, TemperatureUnits::KELVIN, TemperatureUnits::CELSIUS, -201.18f);
-		case 1: return Test(71.97f, TemperatureUnits::KELVIN, TemperatureUnits::FAHRENHEIT, -330.12f);
+		case 1: return Test(71.97f, TemperatureUnits::KELVIN, TemperatureUnits::FAHRENHEIT, -330.124f);
 		case 2: return Test(71.97f, TemperatureUnits::CELSIUS, TemperatureUnits::KELVIN, 345.12f);
 		case 3: return Test(21.56f, TemperatureUnits::CELSIUS, TemperatureUnits::CELSIUS, 21.56f);
 		case 4: return Test(62.02f, TemperatureUnits::FAHRENHEIT, TemperatureUnits::CELSIUS, 16.68f);

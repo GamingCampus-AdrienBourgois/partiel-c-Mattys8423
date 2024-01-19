@@ -2,6 +2,7 @@
 
 // Don't forget to enable the exercise in the SudentConfiguration.h file !
 #include "StudentConfiguration.h"
+#include "cstdlib"
 #ifdef COMPILE_EXERCICE_1
 
 enum class TemperatureUnits
